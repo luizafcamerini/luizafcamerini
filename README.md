@@ -1,10 +1,13 @@
 ### Hi there 👋
+My name is Luíza Camerini, I'm Brazilian and I live in Rio de Janeiro, Brazil. I'm a Computer Science undergraduate at PUC-Rio. I have experience in Python, C, Java, React.js and SQL, which I learned both in university and in multiple technology internships, including a partnership internship between PUC-Rio and Americanas.
+
+Adittionally, I have strive to conquer my lifetime Cambridge: Certificate of Advanced English.
+
+I love to play with new programming languages at my free time. I also enjoy crocheting, playing the piano and hang out with friends :)
+
+📫 How to reach me: www.linkedin.com/in/luizacamerini
 
 <!--
-**luizafcamerini/luizafcamerini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
