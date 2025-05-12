@@ -6,9 +6,9 @@ In regards to professional experiences, I got to code ETL scripts for a medical 
 
 🔥 Some of my (main) current interests are:
 - Large Language Models: through foundation models like Cohere;
-- RAG: using tools like LangChain;
-- Graph Databases: I'm a huge fan of Neo4j!;
-- Relational Databases: using platforms like PostgerSQL.
+- RAG: using frameworks such as LangChain;
+- Graph Databases: I'm a huge Neo4j fan! ;
+- Relational Databases: using platforms like PostgreSQL.
 
 📫 How to reach me: www.linkedin.com/in/luizacamerini
 
