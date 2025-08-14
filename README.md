@@ -2,7 +2,7 @@
 
 My name is Luíza Camerini, I'm Brazilian and I was born and raised in Rio. I'm a Computer Science undergraduate at PUC-Rio (Pontifical Catholic University of Rio de Janeiro). I have experience in multiple programming languages such as Python, C, Java, React.js and SQL, which I learned all in university and in multiple technology internships.
 
-In regards to professional experiences, I got to code ETL scripts for a medical records relational database for indigenous people in Brazil, an recomendation algorithm for an online supermarket app, a Front-End interface for an sales analytics app, and many more database related and web systems.
+In regards to professional experiences, I got to code ETL scripts for a medical records relational database for indigenous people in Brazil, an recomendation algorithm for an online supermarket app, a Front-End interface for an sales analytics app, and many more database related and web systems. (You can check all about my previous works [right here!](https://www.linkedin.com/in/luizacamerini))
 
 🔥 Some of my (main) current interests are:
 - Large Language Models: through foundation models like Cohere;
