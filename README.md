@@ -1,12 +1,12 @@
 ### Hi there 👋 & Welcome to my GitHub 🐙
 
-My name is Luíza Camerini, I'm Brazilian and I live in Rio de Janeiro, Brazil. I'm a Computer Science undergraduate at PUC-Rio (Pontifical Catholic University of Rio de Janeiro). I have experience in Python, C, Java, React.js and SQL, which I learned all in university and in multiple technology internships.
+My name is Luíza Camerini, I'm Brazilian and I was born and raised in Rio. I'm a Computer Science undergraduate at PUC-Rio (Pontifical Catholic University of Rio de Janeiro). I have experience in multiple programming languages such as Python, C, Java, React.js and SQL, which I learned all in university and in multiple technology internships.
 
-In regards to professional experiences, I got to code ETL scripts for a medical records relational database for indigenous people in Brazil, an recomendation algorithm for an online supermarket app, a Front-End interface for an sales analytics app, and more.
+In regards to professional experiences, I got to code ETL scripts for a medical records relational database for indigenous people in Brazil, an recomendation algorithm for an online supermarket app, a Front-End interface for an sales analytics app, and many more database related and web systems.
 
 🔥 Some of my (main) current interests are:
 - Large Language Models: through foundation models like Cohere;
-- RAG: using frameworks such as LangChain;
+- RAG: using frameworks such as LangChain and Neo4j GraphRAG;
 - Graph Databases: I'm a huge Neo4j fan! ;
 - Relational Databases: using platforms like PostgreSQL.
 
