@@ -19,7 +19,7 @@ In regards to professional experiences, I got to code ETL scripts for a medical 
 🔥 Some of my current interests are:
 - Graph Databases: I'm a huge Neo4j fan;
 - RAG: using frameworks such as LangChain and Neo4j GraphRAG;
-- Large Language Models: through foundation models like Cohere Command R;
-- Agentic AI: using n8n;
+- Large Language Models: through foundation models;
+- Agentic AI: I've used n8n and LangChain AI;
 
 > 📫 You can reach me through my [Linkedin](www.linkedin.com/in/luizacamerini) or e-mail: luizacamerini@hotmail.com
