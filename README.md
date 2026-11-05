@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luíza Camerini 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · Backend Developer · AI & Data Enthusiast</b><br>
+  <b>Software Developer · Backend, Frontend & FullStack Developer · AI & Data Enthusiast</b><br>
   MSc student @ PUC-Rio · Rio de Janeiro, Brazil 🇧🇷
 </p>
 
